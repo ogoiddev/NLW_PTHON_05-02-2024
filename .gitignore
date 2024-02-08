@@ -4,3 +4,7 @@ Captura de tela 2024-02-05 234906.png
 example.*
 __raw__.py
 *.png
+.pytest_cache
+```
+
+```bash
